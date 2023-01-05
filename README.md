@@ -1,0 +1,1 @@
+# PureScript Node.js Addon example
